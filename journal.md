@@ -16,12 +16,23 @@ Officially begin splitboard. I want to speedrun this project overnight and try t
 - Finally, I want to try a **split keyboard design** for this keyboard for ergonomics.
 
 In my research, I found out about a keyboard called the ergodox. I will aim for a design similar to it, but I intend to add two other unique elements:
-- A mini trackpad (similar to a thinkpad)
+- ~~A mini trackpad (similar to a thinkpad)~~ I decided not to add this as the trackball will be take its functionality. 
 - A trackball (to navigate menus and 3d softwares). 
 
 I will also try to add some sort of backlight similar to the original.
 ![image](https://github.com/user-attachments/assets/7e87596d-ba02-42c9-b880-46d6aaa68bcf)
 
 
+# June 9th, 2:04am
+With that out of the way, I will now begin with a rough design from a online configurator. 
 
-With that out of the way, I will now start the PCB design. 
+Left Half: 38 total switches
+![image](https://github.com/user-attachments/assets/526f177f-7a6a-4c26-ae10-44a6ebb58035)
+
+Right half: 32 total switches
+![image](https://github.com/user-attachments/assets/b1bf222c-4823-40c3-9060-7f29b7a535fd)
+
+Since the left half is simpler, I will start making the pcb for it. **I will need to make the entire trackball assembly for the right side.**
+
+The microcontroller I chose to work with is a NiceNanov2, because of its bluetooth connectivity and power management / battery charging support. 
+
