@@ -19,4 +19,9 @@ In my research, I found out about a keyboard called the ergodox. I will aim for 
 - A mini trackpad (similar to a thinkpad)
 - A trackball (to navigate menus and 3d softwares). 
 
+I will also try to add some sort of backlight similar to the original.
+![image](https://github.com/user-attachments/assets/7e87596d-ba02-42c9-b880-46d6aaa68bcf)
+
+
+
 With that out of the way, I will now start the PCB design. 
