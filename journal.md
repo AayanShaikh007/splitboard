@@ -15,4 +15,8 @@ Officially begin splitboard. I want to speedrun this project overnight and try t
 - Next, Ive wanted to try a wireless keyboard design ever since the pico W got bluetooth connectivity. **Wireless connectivity is a must.** Therefore, I need to handle **bluetooth connectivity** and how to **power the board using a battery**. 
 - Finally, I want to try a **split keyboard design** for this keyboard for ergonomics.
 
+In my research, I found out about a keyboard called the ergodox. I will aim for a design similar to it, but I intend to add two other unique elements:
+- A mini trackpad (similar to a thinkpad)
+- A trackball (to navigate menus and 3d softwares). 
+
 With that out of the way, I will now start the PCB design. 
