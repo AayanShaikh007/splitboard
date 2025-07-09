@@ -27,12 +27,14 @@ I will also try to add some sort of backlight similar to the original.
 With that out of the way, I will now begin with a rough design from a online configurator. 
 
 Left Half: 38 total switches
+
 ![image](https://github.com/user-attachments/assets/526f177f-7a6a-4c26-ae10-44a6ebb58035)
 
 Right half: 32 total switches
+
 ![image](https://github.com/user-attachments/assets/b1bf222c-4823-40c3-9060-7f29b7a535fd)
 
 Since the left half is simpler, I will start making the pcb for it. **I will need to make the entire trackball assembly for the right side.**
 
-The microcontroller I chose to work with is a NiceNanov2, because of its bluetooth connectivity and power management / battery charging support. 
+The microcontroller I chose to work with is a Adafruit Feather nRF52840 Express, because of its bluetooth connectivity and power management / battery charging support. 
 
