@@ -50,3 +50,5 @@ With this done, I will now work on the PCB of the board.
 Today, I decided to begin the PCB design of the board. I spent around 2 hours arranging the keyswitch footprints to their correct locations. Kicad was acting funny again just like with the last keyboard. Tomorrow I will arrange the LEDs and do the same with the splitboard right. I am also thinking about removing the trackball from the keyboard and making it into its own entity (a seperate pcb). I will focus on this later. 
 
 <img width="944" height="598" alt="image" src="https://github.com/user-attachments/assets/85d6c529-1091-4e72-b9f1-ae0ffa22c931" />
+
+# June 22nd
