@@ -52,3 +52,7 @@ Today, I decided to begin the PCB design of the board. I spent around 2 hours ar
 <img width="944" height="598" alt="image" src="https://github.com/user-attachments/assets/85d6c529-1091-4e72-b9f1-ae0ffa22c931" />
 
 # June 22nd
+Finished wiring most of the left splitboard and arranged all parts for both the left and right splitboard other than the microcontroller. 
+
+<img width="895" height="603" alt="image" src="https://github.com/user-attachments/assets/2cdfbda1-d13b-445d-a9b5-3dfe4029cdf4" />
+
