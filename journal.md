@@ -56,9 +56,13 @@ Finished wiring most of the left splitboard and arranged all parts for both the 
 
 <img width="895" height="603" alt="image" src="https://github.com/user-attachments/assets/2cdfbda1-d13b-445d-a9b5-3dfe4029cdf4" />
 
-# July 24th
+# July 24th- Spent 4 hours on PCB
 Finished wiring the right keyboard and whatever was left of the left splitboard. 
 
+<img width="1056" height="739" alt="image" src="https://github.com/user-attachments/assets/96deb2a9-9c92-4bc6-9d33-2f1da84fc972" />
 
-# July 25th
-Finished designing the case for the left and right splitboard, hence concluding the project. Produced the BOM. 
+
+# July 25th- Spent 6 hours on the case
+Finished designing the case for the left and right splitboard, hence concluding the project. I decided to go with a voronoi pattern on the bottom of the case to add some originality and appeal to it. Produced the BOM. 
+
+<img width="1136" height="668" alt="image" src="https://github.com/user-attachments/assets/3b10a6c9-750a-4211-982a-095a11285fed" />
