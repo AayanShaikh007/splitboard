@@ -1,2 +1,3 @@
 # splitboard
-a split keyboard that I will (hopefully) speedrun within 24 hours
+A split keyboard modelled after the Ergodox with wireless connectivity and a battery.
+
