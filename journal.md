@@ -23,7 +23,7 @@ I will also try to add some sort of backlight similar to the original.
 ![image](https://github.com/user-attachments/assets/7e87596d-ba02-42c9-b880-46d6aaa68bcf)
 
 
-# June 9th, 2:04am
+# July 9th, 2:04am
 With that out of the way, I will now begin with a rough design from a online configurator. 
 
 Left Half: 38 total switches
@@ -38,7 +38,7 @@ Since the left half is simpler, I will start making the pcb for it. **I will nee
 
 The microcontroller I chose to work with is a Adafruit Feather nRF52840 Express, because of its bluetooth connectivity and power management / battery charging support. 
 
-# June 20th- 3 hours spent
+# July 20th- 3 hours spent
 I had to take a break from the project due to undercity. Today, I worked with other hack clubbers to collectively finish/work on our keyboards. I took the opportunity to finalize a Kicad schematic and gather all required footprints for the project. 
 
 <img width="1143" height="799" alt="image" src="https://github.com/user-attachments/assets/28ab90f5-3c64-4b94-a52f-cedce50648a0" />
@@ -46,13 +46,19 @@ Schematic for splitboard left.
 
 With this done, I will now work on the PCB of the board. 
 
-# June 21st- 2 hours spent
+# July 21st- 2 hours spent
 Today, I decided to begin the PCB design of the board. I spent around 2 hours arranging the keyswitch footprints to their correct locations. Kicad was acting funny again just like with the last keyboard. Tomorrow I will arrange the LEDs and do the same with the splitboard right. I am also thinking about removing the trackball from the keyboard and making it into its own entity (a seperate pcb). I will focus on this later. 
 
 <img width="944" height="598" alt="image" src="https://github.com/user-attachments/assets/85d6c529-1091-4e72-b9f1-ae0ffa22c931" />
 
-# June 22nd
+# July 22nd- 4-5 hours spent
 Finished wiring most of the left splitboard and arranged all parts for both the left and right splitboard other than the microcontroller. 
 
 <img width="895" height="603" alt="image" src="https://github.com/user-attachments/assets/2cdfbda1-d13b-445d-a9b5-3dfe4029cdf4" />
 
+# July 24th
+Finished wiring the right keyboard and whatever was left of the left splitboard. 
+
+
+# July 25th
+Finished designing the case for the left and right splitboard, hence concluding the project. Produced the BOM. 
