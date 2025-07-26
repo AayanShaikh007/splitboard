@@ -7,7 +7,7 @@ created_at: "2025-07-09"
 
 # Splitboard
 
-## July 9th, 1:17am
+## July 9th, 1:17am- ~1 hour spent
 
 Officially begin splitboard. But before that, the project description- splitboard is a hotswappable keyboard that I will be making to address issues in my last keyboard, scalars-keyboard (also on my github profile). 
 
@@ -23,7 +23,7 @@ I will also try to add some sort of backlight similar to the original.
 ![image](https://github.com/user-attachments/assets/7e87596d-ba02-42c9-b880-46d6aaa68bcf)
 
 
-# July 9th, 2:04am
+# July 9th, 2:04am- 1 hour spent planning and researching parts. 
 With that out of the way, I will now begin with a rough design from a online configurator. 
 
 Left Half: 38 total switches
