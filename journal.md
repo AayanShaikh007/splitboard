@@ -5,7 +5,9 @@ description: "wireless split keyboard"
 created_at: "2025-07-09"
 ---
 
-# Splitboard- 22 hours spent total
+# Splitboard
+
+**22 hours spent total**
 
 ## July 9th, 1:17am- ~1 hour spent
 
