@@ -19,3 +19,20 @@ I made the splitboard as a follow up to my original keyboard to address some mis
 
 <img width="759" height="530" alt="Screenshot 2025-07-26 142528" src="https://github.com/user-attachments/assets/25581c19-aca4-491d-ae37-675b843fb9e6" />
 <img width="890" height="556" alt="Screenshot 2025-07-26 142520" src="https://github.com/user-attachments/assets/c99081c0-10bf-4573-afc4-186eceb8acfb" />
+
+# BOM Table
+| Item                        | Amount | Bought? | Cost (CAD) | Total Cost | Notes                                      | Link |
+|-----------------------------|--------|---------|------------|-------------|---------------------------------------------|------|
+| Adafruit Feather NRF52840   | 2      | n       | 37.79      | 75.58       |                                             | [AliExpress](https://www.aliexpress.com/item/1005009226053516.html?src=bing&aff_short_key=UneMJZVf&aff_platform=true&isdl=y&albch=shopping&acnt=135105396&albcp=555403205&albag=1301822986926870&slnk=&trgt=pla-2333163674559409&plac=&crea=81363996201255&netw=o&device=c&mtctp=e&utm_source=Bing&utm_medium=shopping&utm_campaign=PA_Bing_CA_PMAX_ALL_maxvalue_20250428_newstore_purchase&utm_content=%E9%87%8D%E5%A4%A7%E4%BB%B6&utm_term=Adafruit%20Feather%20nRF52840%20Express) |
+| Switches (need 76)          | 1      | n       | 26.99      | 26.99       |                                             | [Amazon](https://www.amazon.ca/Kailh-Mechanical-Keyboard-Switches-Bronze/dp/B078872V4C) |
+| Kalih Sockets               | 1      | n       | 13.57      | 13.57       |                                             | [AliExpress](https://www.aliexpress.com/item/1005007476614771.html) |
+| Diodes                      | 1      | n       | 11.36      | 11.36       | Possibly cheaper if bought with other stuff | [AliExpress](https://www.aliexpress.com/item/4000142272546.html) |
+| SK6812mini-e                | 1      | n       | 8.04       | 8.04        |                                             | [AliExpress](https://www.aliexpress.com/item/1005009217389452.html) |
+| Keycaps                     | 1      | n       | 29.99      | 29.99       |                                             | [Amazon](https://www.amazon.ca/124-Key-Keycaps-Percent-Keyboard-Dye-Sub/dp/B09NRK5B3L) |
+| PCB Manufacturing           | 2      | n       | 19.89      | 39.78       | $20 highway coupon (not applied)            | — |
+| Stabilizers                 | 1      | n       | 7.29       | 7.29        |                                             | [AliExpress](https://www.aliexpress.com/item/1005009141481219.html) |
+
+|               |        |         |        |         |             |             |
+|---------------|--------|---------|--------|---------|-------------|-------------|
+|               |        |         | **CAD** | **USD** |             |             |
+| **Total Cost**|        |         | 212.60 | 155.20  | Note: 150 USD = 204.58 CAD | |
