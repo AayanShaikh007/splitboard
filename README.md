@@ -16,6 +16,10 @@ I made the splitboard as a follow up to my original keyboard to address some mis
 <img width="935" height="530" alt="Screenshot 2025-08-04 044314" src="https://github.com/user-attachments/assets/8518cb0c-032b-4c94-94ff-c49577b36d67" />
 <img width="1056" height="444" alt="Screenshot 2025-08-04 044259" src="https://github.com/user-attachments/assets/c700d3b4-0701-412a-a386-7c324c276aeb" />
 
+<img width="1097" height="728" alt="Screenshot 2025-07-26 142320" src="https://github.com/user-attachments/assets/85ca0cf4-fd89-4091-aa50-4bfe0ced401e" />
+<img width="965" height="698" alt="image" src="https://github.com/user-attachments/assets/e06245c0-1844-451a-8d25-cea5bc6f72b7" />
+
+
 <img width="1164" height="693" alt="Screenshot 2025-07-26 142543" src="https://github.com/user-attachments/assets/692965fb-e5a2-4156-a3dc-9545d6a24eac" />
 <img width="1136" height="668" alt="Screenshot 2025-07-26 142618" src="https://github.com/user-attachments/assets/547767e0-6d26-4009-b81c-3b982643c1d9" />
 
