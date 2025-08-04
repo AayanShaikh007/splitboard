@@ -13,6 +13,8 @@ Typical Ergodox layout
 I made the splitboard as a follow up to my original keyboard to address some mistakes I made in my last keyboard. Firstly, I made the case walls way too thick, at 1 cm, where in reality I only needed 2-4 mm. Additionally, I see now that the keyboard has a very large footprint on my desk and is difficult to move into a comfortable typing position. The splitboard consists of two, very portable halves that can be arranged around your desk in any way you want. Additionally, the case is much more asthetically appealing with low-profile walls (3mm) and a voronoi pattern on the bottom. Check out the product gallery to get a preview of the project.  
 
 # Product Gallery
+<img width="935" height="530" alt="Screenshot 2025-08-04 044314" src="https://github.com/user-attachments/assets/8518cb0c-032b-4c94-94ff-c49577b36d67" />
+<img width="1056" height="444" alt="Screenshot 2025-08-04 044259" src="https://github.com/user-attachments/assets/c700d3b4-0701-412a-a386-7c324c276aeb" />
 
 <img width="1164" height="693" alt="Screenshot 2025-07-26 142543" src="https://github.com/user-attachments/assets/692965fb-e5a2-4156-a3dc-9545d6a24eac" />
 <img width="1136" height="668" alt="Screenshot 2025-07-26 142618" src="https://github.com/user-attachments/assets/547767e0-6d26-4009-b81c-3b982643c1d9" />
