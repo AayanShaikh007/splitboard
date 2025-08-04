@@ -7,7 +7,7 @@ created_at: "2025-07-09"
 
 # Splitboard
 
-_**22 hours spent total**_
+_**25 hours spent total**_
 ## July 9th, 1:17am- ~1 hour spent
 
 Officially begin splitboard. But before that, the project description- splitboard is a hotswappable keyboard that I will be making to address issues in my last keyboard, scalars-keyboard (also on my github profile). 
