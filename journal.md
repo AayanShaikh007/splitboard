@@ -67,3 +67,11 @@ Finished wiring the right keyboard and whatever was left of the left splitboard.
 Finished designing the case for the left and right splitboard, hence concluding the project. I decided to go with a voronoi pattern on the bottom of the case to add some originality and appeal to it. Produced the BOM. 
 
 <img width="1136" height="668" alt="image" src="https://github.com/user-attachments/assets/3b10a6c9-750a-4211-982a-095a11285fed" />
+
+# August 4th- Spent 3 hours editing the case
+I added the physical models of some switches and a low poly rectangle with the exact dimensions of the battery I have at home that should work with the microcontroller used in this keyboard. This proved to be pretty helpful since it revealed a mistake in my top plates, and although tedious to resolve, I was able to fix all issues. Everything should fit nicely, hopefully. 
+
+<img width="973" height="659" alt="Screenshot 2025-08-04 044135" src="https://github.com/user-attachments/assets/2c8023ee-98de-4595-aff5-f463213566b3" />
+
+
+<img width="935" height="530" alt="image" src="https://github.com/user-attachments/assets/2a298bda-8f52-4bcb-a90e-8d775ef952e3" />
